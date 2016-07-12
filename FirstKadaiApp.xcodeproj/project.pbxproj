@@ -150,6 +150,7 @@
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		A32C117C1D34808F0024FD37 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
@@ -286,6 +287,7 @@
 				A32C11841D34808F0024FD37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
